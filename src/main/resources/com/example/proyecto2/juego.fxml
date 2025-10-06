@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="1080.0" prefWidth="1920.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/24.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.proyecto2.HelloController">
+   <children>
+      <ImageView fitHeight="118.0" fitWidth="462.0" layoutX="1366.0" layoutY="79.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@images/APALABRADOS2.png" />
+         </image>
+      </ImageView>
+      <TextField layoutX="158.0" layoutY="120.0" prefHeight="105.0" prefWidth="109.0" />
+      <TextField layoutX="295.0" layoutY="120.0" prefHeight="105.0" prefWidth="109.0" />
+   </children>
+</AnchorPane>
