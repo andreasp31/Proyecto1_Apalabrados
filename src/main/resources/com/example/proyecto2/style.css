@@ -10,3 +10,15 @@
     -fx-background-color:#ff66c4;
     -fx-cursor: hand;
 }
+
+.cuadrados{
+    -fx-border-radius:20px;
+    -fx-background-radius:20px;
+    -fx-border-width:2px;
+    -fx-border-color:#d5d5d5;
+}
+
+.letras{
+    -fx-background-radius:20px;
+    -fx-background-color:#d6d6d6;
+}
